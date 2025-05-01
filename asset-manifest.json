@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/food_ncu/static/css/main.d75ca4a3.css",
-    "main.js": "/food_ncu/static/js/main.a192902e.js",
+    "main.js": "/food_ncu/static/js/main.74987e43.js",
     "static/js/488.3d9bb0b4.chunk.js": "/food_ncu/static/js/488.3d9bb0b4.chunk.js",
     "index.html": "/food_ncu/index.html",
     "main.d75ca4a3.css.map": "/food_ncu/static/css/main.d75ca4a3.css.map",
-    "main.a192902e.js.map": "/food_ncu/static/js/main.a192902e.js.map",
+    "main.74987e43.js.map": "/food_ncu/static/js/main.74987e43.js.map",
     "488.3d9bb0b4.chunk.js.map": "/food_ncu/static/js/488.3d9bb0b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d75ca4a3.css",
-    "static/js/main.a192902e.js"
+    "static/js/main.74987e43.js"
   ]
 }
