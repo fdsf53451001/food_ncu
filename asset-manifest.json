@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food_ncu/static/css/main.5d29b5e9.css",
+    "main.js": "/food_ncu/static/js/main.a192902e.js",
+    "static/js/488.3d9bb0b4.chunk.js": "/food_ncu/static/js/488.3d9bb0b4.chunk.js",
+    "index.html": "/food_ncu/index.html",
+    "main.5d29b5e9.css.map": "/food_ncu/static/css/main.5d29b5e9.css.map",
+    "main.a192902e.js.map": "/food_ncu/static/js/main.a192902e.js.map",
+    "488.3d9bb0b4.chunk.js.map": "/food_ncu/static/js/488.3d9bb0b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d29b5e9.css",
+    "static/js/main.a192902e.js"
+  ]
+}
