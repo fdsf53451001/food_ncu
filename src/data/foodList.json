@@ -1,0 +1,186 @@
+{
+  "foods": [
+    {
+      "name": "美式早餐屋",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "早餐",
+      "description": "很空虛又蠻貴，要吃的話點吐司盒子比較不雷"
+    },
+    {
+      "name": "來客堡",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "早餐",
+      "description": "好吃清爽，不油膩，平價"
+    },
+    {
+      "name": "維克美而美",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "早餐",
+      "description": "蛋餅是綠色的很酷，乳酪絲蛋餅大家都說好吃"
+    },
+    {
+      "name": "萊姆斯",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "早餐",
+      "description": "不要中午去，動作很慢上課來不及，裡面油煙蠻重，總匯三明治不錯，蘿蔔糕不好吃，滿200會送薯條吃起來很像薯條三兄弟"
+    },
+    {
+      "name": "品樂",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "早餐",
+      "description": "飲料超水不要點，斑馬堡跟佛卡夏都蠻好吃"
+    },
+    {
+      "name": "樂活堡",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "早餐",
+      "description": "價格偏高，手工麵包，餐盤系列好吃"
+    },
+    {
+      "name": "大客蔬菜蛋餅",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "早餐",
+      "description": "很貴，一份75、80，好吃蠻特別，尖峰時段動作很慢"
+    },
+    {
+      "name": "小木屋鬆餅",
+      "type": "其他",
+      "location": "校內",
+      "mealTime": "早餐",
+      "description": "尖峰時段要等很久，學生證可以打折，應該大家都吃過"
+    },
+    {
+      "name": "吃早餐",
+      "type": "其他",
+      "location": "校內",
+      "mealTime": "早餐",
+      "description": "男九餐廳，薯餅有脆，跟外面早餐店價錢差不多"
+    },
+    {
+      "name": "雙響丼",
+      "type": "飯",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "日式料理，飲料、湯喝到飽，價格100-200，推薦炸豬排咖哩、烏龍麵、丼飯"
+    },
+    {
+      "name": "No.17 White House",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "高級義式料理，價格180-300，品項特別，裝潢擺盤不錯"
+    },
+    {
+      "name": "Daddy's 美式餐廳",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "中央最好吃的漢堡，麵包Q彈，肉排保有水分，特製醬汁讚"
+    },
+    {
+      "name": "八哥重慶酸辣粉",
+      "type": "麵",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "酸辣粉很Q，可選湯或乾的，內用酸度辣度自己加，鴨血、大腸、肉片都好吃"
+    },
+    {
+      "name": "歐姆萊斯",
+      "type": "飯",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "焗烤咖哩豬排好吃，起司多，其他品項不推"
+    },
+    {
+      "name": "新福",
+      "type": "麵",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "偏甜，家常麵很Q，抄手麵很讚，價格100以下"
+    },
+    {
+      "name": "福泉豆花",
+      "type": "麵",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "炸醬麵好吃，炒手麵不錯，份量大，桑椹冰好吃"
+    },
+    {
+      "name": "米豆",
+      "type": "飯",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "簡餐店，有低脂冰淇淋，涼麵跟滷肉飯吃到飽，推薦石鍋系列"
+    },
+    {
+      "name": "迷路",
+      "type": "麵",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "平價義大利麵、燉飯，中央排名第二的義大利麵，尖峰時段要等"
+    },
+    {
+      "name": "花路",
+      "type": "飯",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "韓式料理，石鍋拌飯料多，辣炒年糕也不錯"
+    },
+    {
+      "name": "一品鍋",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "小火鍋，有爆米花，多種口味，冰淇淋、霜淇淋"
+    },
+    {
+      "name": "粥王",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "粥、雞絲麵、烏龍麵，粥好吃"
+    },
+    {
+      "name": "無敵蛋餅",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "推薦蔬菜+起司+薯餅蛋餅"
+    },
+    {
+      "name": "宵夜屋",
+      "type": "飯",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "自助餐，有媽媽味，比學校清淡，推薦炸杏包菇和肉片"
+    },
+    {
+      "name": "上海湯包",
+      "type": "其他",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "現點現包，皮Q肉餡多，不會膩"
+    },
+    {
+      "name": "緣杏",
+      "type": "麵",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "家常料理，刀削麵很Q，雞絲麵系列好吃"
+    },
+    {
+      "name": "楊滇風",
+      "type": "飯",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "南洋料理，推薦打拋豬，附高麗菜，有椰漿西米露"
+    }
+  ]
+} 
