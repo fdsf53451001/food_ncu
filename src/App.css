@@ -195,9 +195,27 @@ button.active {
   button {
     min-width: 100%;
     padding: 8px;
+    font-size: 1.1rem;
   }
 
   .result {
     padding: 15px;
+  }
+
+  .result h2 {
+    font-size: 1.5rem;
+  }
+
+  .result p {
+    font-size: 1.1rem;
+  }
+
+  .description {
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+
+  .filter-group h3 {
+    font-size: 1.2rem;
   }
 }
