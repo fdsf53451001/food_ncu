@@ -25,7 +25,7 @@ function App() {
   const [result, setResult] = useState(null);
 
   const types = ['飯', '麵', '其他'];
-  const locations = ['後門&宵夜街', '校內'];
+  const locations = ['後門&宵夜街', '校內', '校外'];
   const mealTimes = ['早餐', '正餐'];
 
   const handleRandomize = () => {
@@ -63,7 +63,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>午餐隨機挑選器</h1>
+      <h1>中央午餐挑選器</h1>
       
       <div className="filters">
         <div className="filter-group">

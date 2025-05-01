@@ -181,6 +181,335 @@
       "location": "後門&宵夜街",
       "mealTime": "正餐",
       "description": "南洋料理，推薦打拋豬，附高麗菜，有椰漿西米露"
+    },
+    {
+      "name": "LALA Kitchen",
+      "type": "其他",
+      "location": "校內",
+      "mealTime": "正餐",
+      "description": "人氣餐點包括牛小排燉飯和炸雞鬆餅，全木造建築外觀，有親子遊戲區"
+    },
+    {
+      "name": "熱浪島南洋蔬食茶堂",
+      "type": "其他",
+      "location": "校內",
+      "mealTime": "正餐",
+      "description": "南洋風格蔬食餐廳"
+    },
+    {
+      "name": "No.17 White House",
+      "type": "其他",
+      "location": "後門",
+      "mealTime": "正餐",
+      "description": "墨墨雞燉飯為人氣料理，裝潢有質感，價格親民"
+    },
+    {
+      "name": "麥當勞 - 中壢民族店",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "平鎮區排名第34（共35間），7則評論，距離1.5公里"
+    },
+    {
+      "name": "藏壽司 中壢店",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中壢區排名第11（共240間），67則評論，距離3.3公里"
+    },
+    {
+      "name": "大象泰式美食館",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區新生路182號，道地泰式、平價大份量"
+    },
+    {
+      "name": "坐著做壽司",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中央西路二段106號，壽司新鮮、排隊名店"
+    },
+    {
+      "name": "好滋味麵館",
+      "type": "麵",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區興仁路一段12號，在地人推薦、湯頭濃郁"
+    },
+    {
+      "name": "等等法式甜點",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中山東路一段13號，法式手作甜點、下午茶好去處"
+    },
+    {
+      "name": "甜福號",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中央西路二段92號，招牌刨冰、創意甜品"
+    },
+    {
+      "name": "淺廚房",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中央西路二段162號，食材新鮮、創意料理"
+    },
+    {
+      "name": "蒼沅無菜單料理",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區延平路570號，精緻懷石料理、素食選擇"
+    },
+    {
+      "name": "龍岡米干",
+      "type": "麵",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區龍東路235號，當地知名雲南小吃"
+    },
+    {
+      "name": "阿美米干",
+      "type": "麵",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區龍東路243號，老字號米干、湯頭鮮美"
+    },
+    {
+      "name": "中原夜市-阿婆壽司",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區實踐路88號（攤位），夜市人氣壽司"
+    },
+    {
+      "name": "中原夜市-郭記麻辣臭豆腐",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區實踐路88號（攤位），麻辣湯底、臭豆腐入味"
+    },
+    {
+      "name": "百八魚場",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中山路88號，平價生魚片、丼飯"
+    },
+    {
+      "name": "好客燒烤",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區新生路二段421號，烤肉多樣、適合聚餐"
+    },
+    {
+      "name": "咖哩樹",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中央西路二段207號，日式咖哩、料多實在"
+    },
+    {
+      "name": "龍涎居雞膳食坊",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中正路389號，雞湯濃郁、藥膳健康"
+    },
+    {
+      "name": "鳳梨屋水上莊園",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區龍岡路三段737巷135號，特色餐點、親子友善"
+    },
+    {
+      "name": "魚多甜",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中山路123號，生魚片、壽司"
+    },
+    {
+      "name": "田季發爺燒肉",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中山路100號，肉品多選擇、聚餐首選"
+    },
+    {
+      "name": "樂檸漢堡",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "桃園市中壢區中正路395號，手作漢堡、現炸薯條"
+    },
+    {
+      "name": "莊園餐廳",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中壢市樹籽路8號（南方莊園渡假飯店），中壢區排名第18（共240間），43則評論，距離1.4公里"
+    },
+    {
+      "name": "織田信長",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "環西路二段366巷10號，中壢區排名第83（共240間），2則評論，距離1.5公里"
+    },
+    {
+      "name": "厚冶麵包咖啡館",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "民族路雙連二段113巷33弄28-1號，暫無評論，距離1.6公里"
+    },
+    {
+      "name": "南方餐廳",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中壢市樹籽路8號（南方莊園渡假飯店），中壢區排名第22（共240間），39則評論，距離1.7公里"
+    },
+    {
+      "name": "全家福客家菜館",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中壢市環西路69號，中壢區排名第51（共240間），8則評論，距離1.7公里"
+    },
+    {
+      "name": "托斯卡尼尼義大利餐廰",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "長安路168號，平鎮區排名第9（共35間），21則評論，距離1.8公里"
+    },
+    {
+      "name": "清香雅集小館",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中正路591號，中壢區排名第177（共240間），1則評論，距離1.9公里"
+    },
+    {
+      "name": "元晨早餐屋",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "早餐",
+      "description": "民權路3段1068號，中壢區排名第200（共240間），1則評論，距離1.9公里"
+    },
+    {
+      "name": "屋莎鬆餅屋",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中正路19號3樓，桃園區排名第81（共190間），10則評論，距離2公里"
+    },
+    {
+      "name": "繽紛西餐廳",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中壢市民權路398號（中壢古華花園飯店），中壢區排名第10（共240間），185則評論，距離2.6公里"
+    },
+    {
+      "name": "這一鍋皇室祕藏鍋物中美殿",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中壢區排名第1，295則評論，「好吃的麻辣鍋」「愉悅放鬆的用餐環境」，距離3公里"
+    },
+    {
+      "name": "麥克小姐",
+      "type": "其他",
+      "location": "後門",
+      "mealTime": "正餐",
+      "description": "桃園市平鎮區中央路145號，雙層花生醬牛肉堡為推薦餐點，距離大學後門"
+    },
+    {
+      "name": "內卡小館 Neckar Bistro",
+      "type": "飯",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "五興路331巷46號，提供綠蓉蛤蜊燉飯、松露燉飯等創意義式料理，夜間轉型為酒吧模式供應調酒"
+    },
+    {
+      "name": "香城燒臘小館",
+      "type": "飯",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "五興路331巷6號，Google評分4.1（217則評論），招牌燒鴨飯與叉燒飯為學生常備餐點"
+    },
+    {
+      "name": "小惡魔茶飲 (Pretty Devil)",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "五興路396號，營業至凌晨1點，Google評分4.4（31則評論），主打惡魔系列特調飲品與漸層系茶飲"
+    },
+    {
+      "name": "中央排骨飯",
+      "type": "飯",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中央西路一段44號，Google評分4.1（12則評論），現炸排骨與雞腿便當為主打，每日限量供應"
+    },
+    {
+      "name": "一碗小麻辣麻辣鴨血臭豆腐",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中央西路二段165號，下午4點半至深夜，湯頭可選辣度，鴨血與臭豆腐入味軟嫩"
+    },
+    {
+      "name": "Lag累擱 鮮奶茶",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中央西路二段26號，Google評分4.2（8則評論），使用鮮乳坊鮮奶調製，推薦「累擱鮮奶茶」與珍珠系列"
+    },
+    {
+      "name": "上輝仙草豆花店",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中央西路二段163號，Google評分4.0（35則評論），綜合仙草凍與芋圓豆花為夏季消暑首選"
+    },
+    {
+      "name": "Tuk Thai嘟嘟車泰式奶茶",
+      "type": "其他",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中央西路二段（流動攤位），Google評分4.8（5則評論），現拉泰式奶茶與蝶豆花飲品，週末營業至晚間10點半"
+    },
+    {
+      "name": "菜麵神海鮮麵專賣",
+      "type": "麵",
+      "location": "校外",
+      "mealTime": "正餐",
+      "description": "中央西路一段72號，Google評分4.6（8則評論），湯頭分原味與麻辣，配料含鮮蝦、蛤蜊與肉片"
+    },
+    {
+      "name": "24H無人拉麵店",
+      "type": "麵",
+      "location": "後門&宵夜街",
+      "mealTime": "正餐",
+      "description": "24小時營業，免費配料（泡菜、玉米粒）與飲料，需自行操作煮麵機台"
+    },
+    {
+      "name": "漢堡王",
+      "type": "其他",
+      "location": "校內",
+      "mealTime": "正餐",
+      "description": "評論:看好折扣碼再去"
     }
   ]
 } 
