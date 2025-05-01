@@ -2,6 +2,22 @@ import React, { useState, useEffect } from 'react';
 import foodList from './data/foodList.json';
 import './App.css';
 
+// 安全地轉義 HTML 字符
+const escapeHtml = (unsafe) => {
+  return unsafe
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+};
+
+// 驗證輸入
+const validateInput = (input) => {
+  // 移除潛在的危險字符
+  return input.replace(/[<>]/g, '');
+};
+
 function App() {
   const [selectedType, setSelectedType] = useState('');
   const [selectedLocation, setSelectedLocation] = useState('');
@@ -29,7 +45,12 @@ function App() {
 
     if (filteredFoods.length > 0) {
       const randomIndex = Math.floor(Math.random() * filteredFoods.length);
-      setResult(filteredFoods[randomIndex]);
+      const safeResult = {
+        ...filteredFoods[randomIndex],
+        name: escapeHtml(filteredFoods[randomIndex].name),
+        description: escapeHtml(filteredFoods[randomIndex].description)
+      };
+      setResult(safeResult);
     } else {
       setResult(null);
     }
@@ -53,7 +74,8 @@ function App() {
                 key={mealTime}
                 className={selectedMealTime === mealTime ? 'active' : ''}
                 onClick={() => {
-                  setSelectedMealTime(selectedMealTime === mealTime ? '' : mealTime);
+                  const safeMealTime = validateInput(mealTime);
+                  setSelectedMealTime(selectedMealTime === safeMealTime ? '' : safeMealTime);
                   setTimeout(handleRandomize, 100);
                 }}
               >
@@ -71,7 +93,8 @@ function App() {
                 key={type}
                 className={selectedType === type ? 'active' : ''}
                 onClick={() => {
-                  setSelectedType(selectedType === type ? '' : type);
+                  const safeType = validateInput(type);
+                  setSelectedType(selectedType === safeType ? '' : safeType);
                   setTimeout(handleRandomize, 100);
                 }}
               >
@@ -89,7 +112,8 @@ function App() {
                 key={location}
                 className={selectedLocation === location ? 'active' : ''}
                 onClick={() => {
-                  setSelectedLocation(selectedLocation === location ? '' : location);
+                  const safeLocation = validateInput(location);
+                  setSelectedLocation(selectedLocation === safeLocation ? '' : safeLocation);
                   setTimeout(handleRandomize, 100);
                 }}
               >
